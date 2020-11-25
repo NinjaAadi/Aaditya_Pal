@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  padding: 0px;
+  overflow: hidden;
+}
+#number {
+  position: absolute;
+  color: wheat;
+  font-family: "Roboto Mono", monospace;
+  left: 50%;
+  top: 10%;
+  transform: translate(-50%,-50%);
+}
+#email {
+  position: absolute;
+  color: wheat;
+  font-family: "Roboto Mono", monospace;
+  left: 50%;
+  top: 15%;
+  transform: translate(-50%,-50%);
+}
+#github{
+  position: absolute;
+  color: wheat;
+  font-family: "Roboto Mono", monospace;
+  left: 50%;
+  top: 20%;
+  transform: translate(-50%,-50%);
+}
+
+.heading {
+  position: absolute;
+  text-align: center;
+  top: 20%;
+  width: 100%;
+}
+.heading h1 {
+  font-family: "Roboto Mono", monospace;
+  color: #ffdf00;
+  font-size: 70px;
+}
+.heading h3 {
+  font-family: "Roboto Mono", monospace;
+  color: wheat;
+  font-size: 20px;
+}
+#particles-js {
+  background: black;
+  height: 100vh;
+}
+.ml6 {
+  position: relative;
+  font-weight: 900;
+  font-size: 3.3em;
+}
+
+.ml6 .text-wrapper {
+  position: relative;
+  display: inline-block;
+  padding-top: 0.2em;
+  padding-right: 0.05em;
+  padding-bottom: 0.1em;
+  overflow: hidden;
+}
+
+.ml6 .letter {
+  display: inline-block;
+  line-height: 1em;
+}
+a{
+    color:wheat;
+}
